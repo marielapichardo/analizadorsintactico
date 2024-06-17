@@ -1,0 +1,63 @@
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csprojAssemblyReference.cache
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+C:\Users\Admin\Desktop\Analizador_Sintactico-main\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+C:\Users\Admin\Desktop\Analizador_Sintactico-main - Copy\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+C:\Users\Admin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.AssemblyReference.cache
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+C:\Users\kelvin\Downloads\Compiladores trabajo\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.AssemblyReference.cache
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+C:\Users\kelvin\Desktop\Analizador Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb
